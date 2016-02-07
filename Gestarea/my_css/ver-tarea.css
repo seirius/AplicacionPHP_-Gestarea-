@@ -1,0 +1,19 @@
+.cajaTarea {
+	border: 2px solid #F37000;
+	background-color: #BB5600;
+	color: white;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+.cajaTexto {
+	background-color: white;
+	color: black;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.cajaDescripcion {
+	border: 2px solid #BB5600;
+	border-radius: 5px;
+}

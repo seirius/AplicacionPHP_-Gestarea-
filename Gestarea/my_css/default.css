@@ -1,0 +1,32 @@
+.clickable, .orderable {
+	cursor: pointer;
+}
+
+.container {
+	padding-bottom: 5rem;
+}
+
+
+.contenidoOffset {
+	margin-left: 325px;
+}
+
+.msgError {
+	color: #a94442;
+}
+
+.no-resize {
+	resize: none;
+}
+
+.hora, .fecha {
+	text-align: center;
+}
+
+.table tbody>tr>td.vert-align {
+    vertical-align: middle;
+}
+
+.overflow {
+	overflow: hidden;
+}
